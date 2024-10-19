@@ -1,0 +1,6 @@
+[package]
+name = "quiz_game_simple"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
